@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1698944183 source:d:\ciclo 03\algoritmo y estructura de datos\clases y practicas\talleres\arbolesbinarios\arboles binarios\src\arbolesbinarios.cpp
+	"arbolesbinarios.h"
+
+1698933080 d:\ciclo 03\algoritmo y estructura de datos\clases y practicas\talleres\arbolesbinarios\arboles binarios\include\arbolesbinarios.h
+	<iomanip>
+	<iostream>
+
+1698933045 source:d:\ciclo 03\algoritmo y estructura de datos\clases y practicas\talleres\arbolesbinarios\arboles binarios\main.cpp
+	<iostream>
+	"arbolesbinarios.h"
+
